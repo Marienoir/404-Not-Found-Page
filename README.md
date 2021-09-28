@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{mary-404-page.netlify.app}">
+    <a href="https://mary-404-page.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/Marienoir/404-Not-Found-Page}">
+    <a href="https://github.com/Marienoir/404-Not-Found-Page">
       Solution
     </a>
     <span> | </span>
@@ -57,6 +57,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [dev-marienoir.netlify.app](https://{dev-marienoir.netlify.app/})
-- GitHub [@Marienoir](https://{github.com/Marienoir})
-- Twitter [@marynoir_](https://{twitter.com/marynoir_})
+- Website [dev-marienoir.netlify.app](https://dev-marienoir.netlify.app})
+- GitHub [@Marienoir](https://github.com/Marienoir)
+- Twitter [@marynoir_](https://twitter.com/marynoir_)
