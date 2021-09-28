@@ -27,7 +27,7 @@ main {
     width: 100%;
 }
 button {
-    padding: 10px;
+    padding: 15px 20px;
     border: none;
     background: #333333;
     color: #fff;
@@ -45,5 +45,8 @@ footer{
     }
     .text-section{
         padding: 20px 10px;
+    }
+    .text-section p{
+        padding: 0;
     }
 }
