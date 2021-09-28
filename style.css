@@ -1,0 +1,49 @@
+body, html{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    font-family: 'Space Mono', monospace;
+    color: #333333;
+}
+
+main {
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.text-section{
+    padding: 20px 126px;
+}
+.text-section h1{
+    font-weight: 700;
+}
+.text-section p{
+    font-weight: 400;
+    padding: 0 69px 0 0;
+    margin-bottom: 50px;
+}
+.img-section img{
+    width: 100%;
+}
+button {
+    padding: 10px;
+    border: none;
+    background: #333333;
+    color: #fff;
+    font-weight: 700;
+    font-family: 'Space Mono', monospace;
+}
+footer{
+    text-align: center;
+    font-size: 16px;
+}
+@media screen and (max-width:900px) {
+    main{
+        flex-direction: column;
+        padding: 20px;
+    }
+    .text-section{
+        padding: 20px 10px;
+    }
+}
