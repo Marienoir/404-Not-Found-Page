@@ -39,8 +39,7 @@
 
 ![mobile](https://user-images.githubusercontent.com/40265625/135080491-58b5ce04-199a-453c-a6d5-288358e72f30.PNG)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-I developed this project with HTML and CSS. I also used media queries for site responsiveness and flex for layout.
+I developed this project with HTML and Vanilla CSS. I also used media queries for site responsiveness and flex for layout.
 
 ### Built With
 
