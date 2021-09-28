@@ -35,8 +35,6 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
 ![404 desktop](https://user-images.githubusercontent.com/40265625/135080463-37213be0-b8f0-432d-84e2-186ff3ec2c10.PNG)
 
 ![mobile](https://user-images.githubusercontent.com/40265625/135080491-58b5ce04-199a-453c-a6d5-288358e72f30.PNG)
