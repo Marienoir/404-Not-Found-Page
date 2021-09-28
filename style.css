@@ -6,9 +6,11 @@ body, html{
     font-family: 'Space Mono', monospace;
     color: #333333;
 }
-
+.logo{
+    padding: 0 50px;
+}
 main {
-    padding: 60px;
+    padding:30px 60px;
     display: flex;
     justify-content: space-between;
 }
