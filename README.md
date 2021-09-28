@@ -35,7 +35,7 @@
 
 ## Overview
 
-![404 desktop](https://user-images.githubusercontent.com/40265625/135080463-37213be0-b8f0-432d-84e2-186ff3ec2c10.PNG)
+![desktop](https://user-images.githubusercontent.com/40265625/135080815-7fca0fcb-2445-4e07-ada6-e1f17cc585dc.PNG)
 
 ![mobile](https://user-images.githubusercontent.com/40265625/135080491-58b5ce04-199a-453c-a6d5-288358e72f30.PNG)
 
