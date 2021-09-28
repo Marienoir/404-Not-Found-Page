@@ -57,6 +57,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [dev-marienoir.netlify.app](https://dev-marienoir.netlify.app})
+- Website [dev-marienoir.netlify.app](https://dev-marienoir.netlify.app)
 - GitHub [@Marienoir](https://github.com/Marienoir)
 - Twitter [@marynoir_](https://twitter.com/marynoir_)
